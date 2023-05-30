@@ -11,28 +11,6 @@
 - ⚡ Fun fact: ...
 
 
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imblackline.imblackline)
-
-👨‍💻 Frontend dev with Vue.js <br>
-🔥 Passionate about building beautiful and user-friendly interfaces <br>
-🎨 Design enthusiast <br>
-💡 Always learning <br>
-🚀 Experimenting with new technologies <br>
-
-### Connect with me:
-
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-light.svg)](https://amirhosein-yaghoubnezhad.ir/#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-dark.svg)](https://amirhosein-yaghoubnezhad.ir/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-light.svg)](https://twitter.com/_black__line_#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-dark.svg)](https://twitter.com/_black__line_#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://linkedin.com/in/amirhosein-yaghoubnezhad#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://linkedin.com/in/amirhosein-yaghoubnezhad#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-light.svg)](https://instagram.com/imblackline_#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-dark.svg)](https://instagram.com/imblackline_#gh-dark-mode-only)
-
 ## ⚡ Technologies
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="html" height ="42px"  src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.svg"> </a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="css" height ="42px"  src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/css/css.svg"> </a>
